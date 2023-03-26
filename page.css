@@ -1,7 +1,7 @@
-@import url("./header.css");
-@import url("./main.css");
-@import url("./filme.css");
-@import url("./responsive.css"); /*css para responsividade */
+@import url("./style/header.css");
+@import url("./style/main.css");
+@import url("./style/filme.css");
+@import url("./style/responsive.css"); /*css para responsividade */
 
 :root {
   --vermelho: #e50914;
