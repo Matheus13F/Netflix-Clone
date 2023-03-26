@@ -1,40 +1,39 @@
-header .container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
+header .container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
 }
 
-header .logo{
-    color: var(--vermelho);
-    font-family: 'Arial Bold';
-    font-size: 30px;
-    margin-left: 10px;
+header .logo {
+  color: var(--vermelho);
+  font-family: "Arial Bold";
+  font-size: 30px;
+  margin-left: 10px;
 }
 
 header nav a {
-    text-decoration: none;
-    color: rgb(241, 241, 241);
-    margin-right: 10px;
+  text-decoration: none;
+  color: rgb(241, 241, 241);
+  margin-right: 10px;
 }
 
-header nav a:hover{
-    color: var(--vermelho);
+header nav a:hover {
+  color: var(--vermelho);
 }
 
-header .container .icones-topbar i{
-    margin-right: 25px;
+header .container .icones-topbar i {
+  margin-right: 25px;
 }
 
-header .container .icones-topbar img{
-    width: 30px;
-    height: 30px;
+header .container .icones-topbar img {
+  width: 30px;
+  height: 30px;
 }
 
-.icones-topbar{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-   
+.icones-topbar {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
